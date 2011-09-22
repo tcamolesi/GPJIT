@@ -5,7 +5,7 @@ Introduction
 ------------
 
 GPJIT is a simple genetic programming software that tries to create an
-algebraic expression as an approximation to an unknown R -> R function. It's
+algebraic expression as an approximation to an unknown R -> R function. It''s
 innovative in the sense that it generates x86 assembly instructions in order to
 improve the fitness evaluation of each individual in the population.
 
@@ -51,11 +51,11 @@ visualization of the function being approximated VS the best individual of the
 population.
 
 In a debian-based distribution:
-  *sudo apt-get install liballegro4.2-dev*
+    $ sudo apt-get install liballegro4.2-dev*
 
 Build Instructions
 ------------------
 
-  $ cd src
-  $ make
-  $ ./gpjit
+    $ cd src
+    $ make
+    $ ./gpjit
