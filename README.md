@@ -51,6 +51,7 @@ visualization of the function being approximated VS the best individual of the
 population.
 
 In a debian-based distribution:
+
     $ sudo apt-get install liballegro4.2-dev*
 
 Build Instructions
