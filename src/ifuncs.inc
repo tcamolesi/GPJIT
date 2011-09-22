@@ -1,0 +1,5 @@
+_IFUNC( SIN, sin, 1 )
+_IFUNC( COS, cos, 1 )
+_IFUNC( ABS, abs, 1 )
+_IFUNC( MAX, max, 2 )
+_IFUNC( MIN, min, 2 )
